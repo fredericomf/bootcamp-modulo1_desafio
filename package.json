@@ -1,0 +1,24 @@
+{
+  "name": "modulo1_desafio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fredericomf/bootcamp-modulo1_desafio.git",
+  "author": "Frederico Mottinha de Figueiredo <contato@fredericomf.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nunjucks": "^3.1.4"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "nodemon": "^1.18.6"
+  }
+}
